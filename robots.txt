@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://samjr1312-dev.github.io/fontcraft/sitemap.html
+Sitemap: https://font-craft.netlify.app/sitemap.html
