@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://samjr1312-dev.github.io/fontcraft/sitemap.xml
